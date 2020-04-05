@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "ayoub",
+    "MONGO_PWD": "1Sd0Oz8jbZogA9JM",
+    "MONGO_DB": "events-react-app"
+  }
+}
